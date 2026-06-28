@@ -1,8 +1,10 @@
 {
   "name": "input-auto-toggle",
-  "displayName": "input_auto_toggle",
+  "displayName": "Input Auto Toggle",
   "description": "auto toggle input when window foucs",
   "version": "0.0.1",
+  "publisher": "booe",
+  "icon": "assets/icon/icon.png",
   "engines": {
     "vscode": "^1.125.0"
   },
@@ -39,5 +41,9 @@
   "overrides": {
     "diff": "^8.0.4",
     "serialize-javascript": "^7.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ihaoshuai/vsc-input-auto-toggle.git"
   }
 }
